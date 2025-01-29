@@ -1,4 +1,4 @@
-OVERVIEW: SQL-based project to analyze oil reservoir data using an SQLite database and Python. It includes well, reservoir, and production data, with SQL queries for extraction and a
+OVERVIEW: SQL-based project to analyze oil reservoir data using an SQLite database and Python. It includes well, reservoir, and production data, with SQL queries for extraction.
 
 
 FEATURES:
